@@ -1,4 +1,5 @@
-### Hi there, I'm [Venkatraman!](https://webslate.io/about) 👋
+### Hi there, I'm [Venkatraman!](https://www.linkedin.com/in/venkat-engineering-manager) 👋, senior software engineer at PayPal Singapore. working in the Consumer In-Store and Digital Commerce Team. Most of my technical experience is centered around Web and Mobile based product development![image](https://user-images.githubusercontent.com/1652629/219549685-6147b3ca-c6ab-4d3d-81bd-e7121e0b3637.png)
+
 
 <!--
 **ramsunvtech/ramsunvtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

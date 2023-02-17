@@ -1,5 +1,7 @@
 ### Hi there, I'm [Venkatraman!](https://www.linkedin.com/in/venkat-engineering-manager) 👋
-Senior Software engineer at PayPal Singapore. working in the Consumer In-Store and Digital Commerce Team. Most of my technical experience is centered around Web and Mobile based product development!
+Senior Software engineer at PayPal Singapore. working in the Consumer In-Store and Digital Commerce Team. Most of my technical experience is centered around Web and Mobile based product development.
+
+Also, i love dabbling in Flutter & Machine learning.
 
 <!--
 **ramsunvtech/ramsunvtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

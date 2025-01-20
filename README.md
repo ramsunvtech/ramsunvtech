@@ -1,5 +1,7 @@
 ### Hi there, I'm [Venkatraman!](https://www.linkedin.com/in/venkat-engineering-manager) 👋
-Senior Software engineer at PayPal Singapore. working in the Consumer In-Store and Digital Commerce Team. Most of my technical experience is centered around Web and Mobile based product development.
+I am currently Full Stack engineer at Meta Inc, Singapore. working in the Meta Enterprise Platform. Meta's all in one platform for managing secure business-to-business activity in single place using ReactJS, GraphQL, Hack Language, and TAO Database (memcache backed by MySQL).
+
+I was Senior Software engineer at PayPal Singapore. worked in the Consumer In-Store and Digital Commerce Team. Most of my technical experience is centered around Web and Mobile based product development.
 
 Also, i love dabbling in Flutter & Machine learning.
 
